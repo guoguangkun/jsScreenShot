@@ -2,7 +2,7 @@
  * @moduleName: 
  * @Author: Guoguang Kun
  * @Date: 2022-07-11 10:36:38
- * @LastEditTime: 2022-07-11 10:52:07
+ * @LastEditTime: 2022-07-11 10:58:28
  * @LastEditors: guoguangkun
  * @Description: 
  * 
@@ -11,6 +11,15 @@
  */
 
 
+
+
+/**
+ * @description: 
+ * @param {*} videoElement   requried
+ * @param {*} w  requried
+ * @param {*} h   requried
+ * @return {*}
+ */
 export async function screenCapture(videoElement,w,h) {
 
     try {

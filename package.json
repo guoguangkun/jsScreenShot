@@ -1,5 +1,5 @@
 {
-  "name": "jsscreenshot",
+  "name": "jsscreenshot-tool",
   "version": "1.0.0",
   "description": "a real screen shot by JS",
   "main": "index.js",

@@ -2,7 +2,7 @@
  * @moduleName: 
  * @Author: Guoguang Kun
  * @Date: 2022-07-11 10:36:38
- * @LastEditTime: 2022-07-11 10:44:55
+ * @LastEditTime: 2022-07-11 10:52:07
  * @LastEditors: guoguangkun
  * @Description: 
  * 
@@ -21,7 +21,6 @@ export async function screenCapture(videoElement,w,h) {
             let canvas = document.createElement('canvas')
             canvas.width = w;
             canvas.height = h;
-            var ctx = canvas.getContext('2d');
             videoElement.onplay = function() {
                 const ctx = canvas.getContext('2d')
             

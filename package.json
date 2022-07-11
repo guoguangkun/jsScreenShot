@@ -1,0 +1,19 @@
+{
+  "name": "jsscreenshot",
+  "version": "1.0.0",
+  "description": "a real screen shot by JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoguangkun/jsScreenShot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoguangkun/jsScreenShot/issues"
+  },
+  "homepage": "https://github.com/guoguangkun/jsScreenShot#readme"
+}

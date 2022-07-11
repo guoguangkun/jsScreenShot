@@ -13,4 +13,28 @@ forget dom to canvas
 
 通过navigator.mediaDevices.getDisplayMedia 将屏幕分享，然后投射到video，然后video绘制canvas实现真实截屏效果。
 
+
+###  usage
+
+```
+// Down load the screenShot.js or copy into your js 
+
+
+// import
+import {screenCapture} from '../js/screenShot.js'
+     
+// prepare dom and video
+let Dom = document.querySelector("#demo-area-to-shot")
+let DomHeight = Dom.offsetHeight;
+let DomWidth = Dom.offsetWidth;
+
+let videoDom = document.querySelector("#testVideo")
+
+
+// screenShot
+screenCapture(videoDom,DomWidt,DomHeight)
+            
+
+```
+
 欢迎学习交流！

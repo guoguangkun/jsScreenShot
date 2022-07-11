@@ -38,3 +38,11 @@ screenCapture(videoDom,DomWidt,DomHeight)
 ```
 
 欢迎学习交流！
+
+
+
+### reference
+
+* https://w3c.github.io/mediacapture-screen-share/#dom-mediadevices-getdisplaymedia
+* https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API
+* https://developer.chrome.com/docs/web-platform/region-capture/

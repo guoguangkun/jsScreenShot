@@ -13,4 +13,4 @@ forget dom to canvas
 
 通过navigator.mediaDevices.getDisplayMedia 将屏幕分享，然后投射到video，然后video绘制canvas实现真实截屏效果。
 
-欢迎fork，欢迎star
+欢迎学习交流！
